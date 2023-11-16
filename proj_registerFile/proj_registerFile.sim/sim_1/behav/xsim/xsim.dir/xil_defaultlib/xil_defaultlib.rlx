@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/auto/fsb/ryan9801/ECEN_323/include/riscv_alu_constants.sv,1673996864,verilog,,,,,,,,,,,,
+/auto/fsb/ryan9801/ECEN_323/lab01/OneShot.sv,1673292977,systemVerilog,/auto/fsb/ryan9801/ECEN_323/lab02/alu.sv;/auto/fsb/ryan9801/ECEN_323/lab03/regfile.sv;/auto/fsb/ryan9801/ECEN_323/lab03/regfile_top.sv,/auto/fsb/ryan9801/ECEN_323/lab02/alu.sv,,$unit_OneShot_sv;OneShot,,,../../../../../../include,,,,,
+/auto/fsb/ryan9801/ECEN_323/lab02/alu.sv,1673999816,systemVerilog,,/auto/fsb/ryan9801/ECEN_323/lab03/regfile.sv,/auto/fsb/ryan9801/ECEN_323/include/riscv_alu_constants.sv,alu,,,../../../../../../include,,,,,
+/auto/fsb/ryan9801/ECEN_323/lab03/proj_registerFile/proj_registerFile.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/auto/fsb/ryan9801/ECEN_323/lab03/regfile.sv,1674509347,systemVerilog,,/auto/fsb/ryan9801/ECEN_323/lab03/regfile_top.sv,,regfile,,,../../../../../../include,,,,,
+,,,,,/auto/fsb/ryan9801/ECEN_323/include/riscv_alu_constants.sv,regfile_top,,,,,,,,

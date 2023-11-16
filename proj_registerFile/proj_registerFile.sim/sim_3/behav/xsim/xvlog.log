@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab01/OneShot.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module OneShot
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab02/alu.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab03/regfile.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab03/regfile_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_regfile_top
+INFO: [VRFC 10-311] analyzing module datapathBehavioralModel

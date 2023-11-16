@@ -1,0 +1,177 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+*** Start of Top-Level Regfile Testbench Simulation ***
+185 ns: Setting register addresses rd=[0] rs2=[0] rs1=[0] 
+505 ns: Setting register addresses rd=[1] rs2=[0] rs1=[1] 
+715 ns: Write Value: R[1]=0x00000101 
+825 ns: Setting register addresses rd=[2] rs2=[0] rs1=[2] 
+1035 ns: Write Value: R[2]=0x00000202 
+1145 ns: Setting register addresses rd=[3] rs2=[0] rs1=[3] 
+1355 ns: Write Value: R[3]=0x00000303 
+1465 ns: Setting register addresses rd=[4] rs2=[0] rs1=[4] 
+1675 ns: Write Value: R[4]=0x00000404 
+1785 ns: Setting register addresses rd=[5] rs2=[0] rs1=[5] 
+1995 ns: Write Value: R[5]=0x00000505 
+2105 ns: Setting register addresses rd=[6] rs2=[0] rs1=[6] 
+2315 ns: Write Value: R[6]=0x00000606 
+2425 ns: Setting register addresses rd=[7] rs2=[0] rs1=[7] 
+2635 ns: Write Value: R[7]=0x00000707 
+2745 ns: Setting register addresses rd=[8] rs2=[0] rs1=[8] 
+2955 ns: Write Value: R[8]=0x00000808 
+3065 ns: Setting register addresses rd=[9] rs2=[0] rs1=[9] 
+3275 ns: Write Value: R[9]=0x00000909 
+3385 ns: Setting register addresses rd=[10] rs2=[0] rs1=[10] 
+3595 ns: Write Value: R[10]=0x00000a0a 
+3705 ns: Setting register addresses rd=[11] rs2=[0] rs1=[11] 
+3915 ns: Write Value: R[11]=0x00000b0b 
+4025 ns: Setting register addresses rd=[12] rs2=[0] rs1=[12] 
+4235 ns: Write Value: R[12]=0x00000c0c 
+4345 ns: Setting register addresses rd=[13] rs2=[0] rs1=[13] 
+4555 ns: Write Value: R[13]=0x00000d0d 
+4665 ns: Setting register addresses rd=[14] rs2=[0] rs1=[14] 
+4875 ns: Write Value: R[14]=0x00000e0e 
+4985 ns: Setting register addresses rd=[15] rs2=[0] rs1=[15] 
+5195 ns: Write Value: R[15]=0x00000f0f 
+5305 ns: Setting register addresses rd=[16] rs2=[0] rs1=[16] 
+5515 ns: Write Value: R[16]=0x00001010 
+5625 ns: Setting register addresses rd=[17] rs2=[0] rs1=[17] 
+5835 ns: Write Value: R[17]=0x00001111 
+5945 ns: Setting register addresses rd=[18] rs2=[0] rs1=[18] 
+6155 ns: Write Value: R[18]=0x00001212 
+6265 ns: Setting register addresses rd=[19] rs2=[0] rs1=[19] 
+6475 ns: Write Value: R[19]=0x00001313 
+6585 ns: Setting register addresses rd=[20] rs2=[0] rs1=[20] 
+6795 ns: Write Value: R[20]=0x00001414 
+6905 ns: Setting register addresses rd=[21] rs2=[0] rs1=[21] 
+7115 ns: Write Value: R[21]=0x00001515 
+7225 ns: Setting register addresses rd=[22] rs2=[0] rs1=[22] 
+7435 ns: Write Value: R[22]=0x00001616 
+7545 ns: Setting register addresses rd=[23] rs2=[0] rs1=[23] 
+7755 ns: Write Value: R[23]=0x00001717 
+7865 ns: Setting register addresses rd=[24] rs2=[0] rs1=[24] 
+8075 ns: Write Value: R[24]=0x00001818 
+8185 ns: Setting register addresses rd=[25] rs2=[0] rs1=[25] 
+8395 ns: Write Value: R[25]=0x00001919 
+8505 ns: Setting register addresses rd=[26] rs2=[0] rs1=[26] 
+8715 ns: Write Value: R[26]=0x00001a1a 
+8825 ns: Setting register addresses rd=[27] rs2=[0] rs1=[27] 
+9035 ns: Write Value: R[27]=0x00001b1b 
+9145 ns: Setting register addresses rd=[28] rs2=[0] rs1=[28] 
+9355 ns: Write Value: R[28]=0x00001c1c 
+9465 ns: Setting register addresses rd=[29] rs2=[0] rs1=[29] 
+9675 ns: Write Value: R[29]=0x00001d1d 
+9785 ns: Setting register addresses rd=[30] rs2=[0] rs1=[30] 
+9995 ns: Write Value: R[30]=0x00001e1e 
+10105 ns: Setting register addresses rd=[31] rs2=[0] rs1=[31] 
+10315 ns: Write Value: R[31]=0x00001f1f 
+10425 ns: Setting register addresses rd=[1] rs2=[0] rs1=[1] 
+10635 ns: Write Value: R[1]=0xffffffff 
+11045 ns: Setting register addresses rd=[2] rs2=[2] rs1=[1] 
+11255 ns: ALU OP (1101): R[2]=R[1](0xffffffff) XOR R[2](0x00000202) = 0xfffffdfd 
+11365 ns: Setting register addresses rd=[3] rs2=[3] rs1=[1] 
+11575 ns: ALU OP (1101): R[3]=R[1](0xffffffff) XOR R[3](0x00000303) = 0xfffffcfc 
+11685 ns: Setting register addresses rd=[4] rs2=[4] rs1=[1] 
+11895 ns: ALU OP (1101): R[4]=R[1](0xffffffff) XOR R[4](0x00000404) = 0xfffffbfb 
+12005 ns: Setting register addresses rd=[5] rs2=[5] rs1=[1] 
+12215 ns: ALU OP (1101): R[5]=R[1](0xffffffff) XOR R[5](0x00000505) = 0xfffffafa 
+12325 ns: Setting register addresses rd=[31] rs2=[1] rs1=[0] 
+12535 ns: ALU OP (111): R[31]=R[0](0x00000000) < R[1](0xffffffff) = 0x00000000 
+12645 ns: Setting register addresses rd=[31] rs2=[0] rs1=[1] 
+12855 ns: ALU OP (111): R[31]=R[1](0xffffffff) < R[0](0x00000000) = 0x00000001 
+12965 ns: Setting register addresses rd=[31] rs2=[2] rs1=[1] 
+13175 ns: ALU OP (111): R[31]=R[1](0xffffffff) < R[2](0xfffffdfd) = 0x00000000 
+13285 ns: Setting register addresses rd=[31] rs2=[1] rs1=[2] 
+13495 ns: ALU OP (111): R[31]=R[2](0xfffffdfd) < R[1](0xffffffff) = 0x00000001 
+13605 ns: Setting register addresses rd=[31] rs2=[3] rs1=[2] 
+13815 ns: ALU OP (111): R[31]=R[2](0xfffffdfd) < R[3](0xfffffcfc) = 0x00000000 
+13925 ns: Setting register addresses rd=[31] rs2=[2] rs1=[3] 
+14135 ns: ALU OP (111): R[31]=R[3](0xfffffcfc) < R[2](0xfffffdfd) = 0x00000001 
+14245 ns: Setting register addresses rd=[31] rs2=[4] rs1=[3] 
+14455 ns: ALU OP (111): R[31]=R[3](0xfffffcfc) < R[4](0xfffffbfb) = 0x00000000 
+14565 ns: Setting register addresses rd=[31] rs2=[3] rs1=[4] 
+14775 ns: ALU OP (111): R[31]=R[4](0xfffffbfb) < R[3](0xfffffcfc) = 0x00000001 
+14885 ns: Setting register addresses rd=[4] rs2=[5] rs1=[4] 
+15095 ns: ALU OP (0): R[4]=R[4](0xfffffbfb) AND R[5](0xfffffafa) = 0xfffffafa 
+15205 ns: Setting register addresses rd=[5] rs2=[6] rs1=[5] 
+15415 ns: ALU OP (0): R[5]=R[5](0xfffffafa) AND R[6](0x00000606) = 0x00000202 
+15525 ns: Setting register addresses rd=[6] rs2=[7] rs1=[6] 
+15735 ns: ALU OP (0): R[6]=R[6](0x00000606) AND R[7](0x00000707) = 0x00000606 
+15845 ns: Setting register addresses rd=[7] rs2=[8] rs1=[7] 
+16055 ns: ALU OP (0): R[7]=R[7](0x00000707) AND R[8](0x00000808) = 0x00000000 
+16165 ns: Setting register addresses rd=[8] rs2=[9] rs1=[8] 
+16375 ns: ALU OP (10): R[8]=R[8](0x00000808) Add R[9](0x00000909) = 0x00001111 
+16485 ns: Setting register addresses rd=[9] rs2=[10] rs1=[9] 
+16695 ns: ALU OP (10): R[9]=R[9](0x00000909) Add R[10](0x00000a0a) = 0x00001313 
+16805 ns: Setting register addresses rd=[10] rs2=[11] rs1=[10] 
+17015 ns: ALU OP (10): R[10]=R[10](0x00000a0a) Add R[11](0x00000b0b) = 0x00001515 
+17125 ns: Setting register addresses rd=[11] rs2=[12] rs1=[11] 
+17335 ns: ALU OP (10): R[11]=R[11](0x00000b0b) Add R[12](0x00000c0c) = 0x00001717 
+17445 ns: Setting register addresses rd=[12] rs2=[13] rs1=[12] 
+17655 ns: ALU OP (110): R[12]=R[12](0x00000c0c) Sub R[13](0x00000d0d) = 0xfffffeff 
+17765 ns: Setting register addresses rd=[13] rs2=[14] rs1=[13] 
+17975 ns: ALU OP (110): R[13]=R[13](0x00000d0d) Sub R[14](0x00000e0e) = 0xfffffeff 
+18085 ns: Setting register addresses rd=[14] rs2=[15] rs1=[14] 
+18295 ns: ALU OP (110): R[14]=R[14](0x00000e0e) Sub R[15](0x00000f0f) = 0xfffffeff 
+18405 ns: Setting register addresses rd=[15] rs2=[16] rs1=[15] 
+18615 ns: ALU OP (110): R[15]=R[15](0x00000f0f) Sub R[16](0x00001010) = 0xfffffeff 
+18725 ns: Setting register addresses rd=[16] rs2=[17] rs1=[16] 
+18935 ns: ALU OP (1): R[16]=R[16](0x00001010) OR R[17](0x00001111) = 0x00001111 
+19045 ns: Setting register addresses rd=[17] rs2=[18] rs1=[17] 
+19255 ns: ALU OP (1): R[17]=R[17](0x00001111) OR R[18](0x00001212) = 0x00001313 
+19365 ns: Setting register addresses rd=[18] rs2=[19] rs1=[18] 
+19575 ns: ALU OP (1): R[18]=R[18](0x00001212) OR R[19](0x00001313) = 0x00001313 
+19685 ns: Setting register addresses rd=[19] rs2=[20] rs1=[19] 
+19895 ns: ALU OP (1): R[19]=R[19](0x00001313) OR R[20](0x00001414) = 0x00001717 
+20005 ns: Setting register addresses rd=[20] rs2=[21] rs1=[20] 
+20215 ns: ALU OP (1000): R[20]=R[20](0x00001414) >> R[21](0x00001515) = 0x00000000 
+20325 ns: Setting register addresses rd=[21] rs2=[22] rs1=[21] 
+20535 ns: ALU OP (1000): R[21]=R[21](0x00001515) >> R[22](0x00001616) = 0x00000000 
+20645 ns: Setting register addresses rd=[22] rs2=[23] rs1=[22] 
+20855 ns: ALU OP (1000): R[22]=R[22](0x00001616) >> R[23](0x00001717) = 0x00000000 
+20965 ns: Setting register addresses rd=[23] rs2=[24] rs1=[23] 
+21175 ns: ALU OP (1001): R[23]=R[23](0x00001717) << R[24](0x00001818) = 0x17000000 
+21285 ns: Setting register addresses rd=[24] rs2=[25] rs1=[24] 
+21495 ns: ALU OP (1001): R[24]=R[24](0x00001818) << R[25](0x00001919) = 0x30000000 
+21605 ns: Setting register addresses rd=[25] rs2=[26] rs1=[25] 
+21815 ns: ALU OP (1001): R[25]=R[25](0x00001919) << R[26](0x00001a1a) = 0x64000000 
+21925 ns: Setting register addresses rd=[26] rs2=[27] rs1=[26] 
+22135 ns: ALU OP (1010): R[26]=R[26](0x00001a1a) >>> R[27](0x00001b1b) = 0x00000000 
+22245 ns: Setting register addresses rd=[27] rs2=[28] rs1=[27] 
+22455 ns: ALU OP (1010): R[27]=R[27](0x00001b1b) >>> R[28](0x00001c1c) = 0x00000000 
+22565 ns: Setting register addresses rd=[28] rs2=[29] rs1=[28] 
+22775 ns: ALU OP (1010): R[28]=R[28](0x00001c1c) >>> R[29](0x00001d1d) = 0x00000000 
+*** Reading both halfs of every register ***
+22885 ns: Setting register addresses rd=[0] rs2=[0] rs1=[0] 
+23137 ns: Setting register addresses rd=[1] rs2=[1] rs1=[1] 
+23389 ns: Setting register addresses rd=[2] rs2=[2] rs1=[2] 
+23641 ns: Setting register addresses rd=[3] rs2=[3] rs1=[3] 
+23893 ns: Setting register addresses rd=[4] rs2=[4] rs1=[4] 
+24145 ns: Setting register addresses rd=[5] rs2=[5] rs1=[5] 
+24397 ns: Setting register addresses rd=[6] rs2=[6] rs1=[6] 
+24649 ns: Setting register addresses rd=[7] rs2=[7] rs1=[7] 
+24901 ns: Setting register addresses rd=[8] rs2=[8] rs1=[8] 
+25153 ns: Setting register addresses rd=[9] rs2=[9] rs1=[9] 
+25405 ns: Setting register addresses rd=[10] rs2=[10] rs1=[10] 
+25657 ns: Setting register addresses rd=[11] rs2=[11] rs1=[11] 
+25909 ns: Setting register addresses rd=[12] rs2=[12] rs1=[12] 
+26161 ns: Setting register addresses rd=[13] rs2=[13] rs1=[13] 
+26413 ns: Setting register addresses rd=[14] rs2=[14] rs1=[14] 
+26665 ns: Setting register addresses rd=[15] rs2=[15] rs1=[15] 
+26917 ns: Setting register addresses rd=[16] rs2=[16] rs1=[16] 
+27169 ns: Setting register addresses rd=[17] rs2=[17] rs1=[17] 
+27421 ns: Setting register addresses rd=[18] rs2=[18] rs1=[18] 
+27673 ns: Setting register addresses rd=[19] rs2=[19] rs1=[19] 
+27925 ns: Setting register addresses rd=[20] rs2=[20] rs1=[20] 
+28177 ns: Setting register addresses rd=[21] rs2=[21] rs1=[21] 
+28429 ns: Setting register addresses rd=[22] rs2=[22] rs1=[22] 
+28681 ns: Setting register addresses rd=[23] rs2=[23] rs1=[23] 
+28933 ns: Setting register addresses rd=[24] rs2=[24] rs1=[24] 
+29185 ns: Setting register addresses rd=[25] rs2=[25] rs1=[25] 
+29437 ns: Setting register addresses rd=[26] rs2=[26] rs1=[26] 
+29689 ns: Setting register addresses rd=[27] rs2=[27] rs1=[27] 
+29941 ns: Setting register addresses rd=[28] rs2=[28] rs1=[28] 
+30193 ns: Setting register addresses rd=[29] rs2=[29] rs1=[29] 
+30445 ns: Setting register addresses rd=[30] rs2=[30] rs1=[30] 
+30697 ns: Setting register addresses rd=[31] rs2=[31] rs1=[31] 
+*** Successful simulation. Ended at 30894 ns *** 
+$finish called at time : 30894 ns : File "/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile_top.sv" Line 172

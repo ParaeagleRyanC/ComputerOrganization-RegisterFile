@@ -1,0 +1,20 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+*** Start of Regfile Testbench Simulation ***
+*** Read initial values of register at time 140 ns
+*** Testing x0 register at time 780 ns
+*** Testing write to each register at 1470 ns
+*** Testing simultaneous reads and writes to each register at 2140 ns
+*** Testing different read addresses at 2500 ns
+*** Testing random transaactions at 2820 ns
+*** Successful simulation. Ended at 6310 ns *** 
+$finish called at time : 6310 ns : File "/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile.sv" Line 140
+*** Start of Regfile Testbench Simulation ***
+*** Read initial values of register at time 140 ns
+*** Testing x0 register at time 780 ns
+*** Testing write to each register at 1470 ns
+*** Testing simultaneous reads and writes to each register at 2140 ns
+*** Testing different read addresses at 2500 ns
+*** Testing random transaactions at 2820 ns
+*** Successful simulation. Ended at 6310 ns *** 
+$finish called at time : 6310 ns : File "/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile.sv" Line 140

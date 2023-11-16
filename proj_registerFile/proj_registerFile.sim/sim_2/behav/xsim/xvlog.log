@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab03/regfile.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_regfile
+INFO: [VRFC 10-311] analyzing module regfileBehavioralModel
+INFO: [VRFC 10-2263] Analyzing Verilog file "/auto/fsb/ryan9801/ECEN_323/lab03/proj_registerFile/proj_registerFile.sim/sim_2/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

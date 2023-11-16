@@ -1,0 +1,7 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/auto/fsb/ryan9801/ECEN_323/lab03/proj_registerFile/proj_registerFile.sim/sim_2/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/auto/fsb/ryan9801/ECEN_323/lab03/regfile.sv,1674506588,systemVerilog,,/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile.sv,,regfile,,,,,,,,
+/auto/fsb/ryan9801/ECEN_323/lab03/tb_regfile.sv,1673994431,systemVerilog,,,,regfileBehavioralModel;tb_regfile,,,,,,,,
